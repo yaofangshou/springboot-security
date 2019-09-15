@@ -1,6 +1,6 @@
 package com.yaofangshou.web.controller;
 
-import com.yaofangshou.security.validate.ImageCode;
+import com.yaofangshou.security.validate.imagecode.ImageCode;
 import org.springframework.social.connect.web.HttpSessionSessionStrategy;
 import org.springframework.social.connect.web.SessionStrategy;
 import org.springframework.web.bind.annotation.GetMapping;

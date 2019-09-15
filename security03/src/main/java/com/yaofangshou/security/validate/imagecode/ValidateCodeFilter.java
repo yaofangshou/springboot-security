@@ -1,4 +1,4 @@
-package com.yaofangshou.security.validate;
+package com.yaofangshou.security.validate.imagecode;
 
 import com.yaofangshou.web.controller.ValidateController;
 import org.apache.commons.lang3.StringUtils;

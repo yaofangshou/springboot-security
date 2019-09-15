@@ -1,4 +1,4 @@
-package com.yaofangshou.security.validate;
+package com.yaofangshou.security.validate.imagecode;
 
 import java.awt.image.BufferedImage;
 import java.time.LocalDateTime;
